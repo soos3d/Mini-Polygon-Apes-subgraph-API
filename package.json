@@ -1,0 +1,22 @@
+{
+  "name": "subgraph-mini-api",
+  "version": "1.0.0",
+  "description": "This project lets you query a subgraph indexing the Polygon Apes using JavaScript, creating a mini API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "web3",
+    "polygon",
+    "subgraph",
+    "API",
+    "NFT"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.2.5",
+    "dotenv": "^16.0.3"
+  }
+}
